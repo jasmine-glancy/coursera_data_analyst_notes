@@ -1,0 +1,31 @@
+# Module 2: The Wonderful World of Data
+
+## The Data Analysis Toolbox
+
+| Concept                        | Notes                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Common Data Analysis Tools** | - Spreadsheets<br>- Query languages<br>- Visualization tools                                                                                                                                                                                                                                                                                                                                     |
+| **Spreadsheets**               | - Google Sheets and Microsoft Excel <br>- Spreadsheets are a **digital worksheet**                                                                                                                                                                                                                                                                                                               |
+| **Formula**                    | - A set of instructions that performs a specific calculation using the data in a spreadsheet                                                                                                                                                                                                                                                                                                     |
+| **Function**                   | - A preset command that automatically performs a specific process or task using the data in a spreadsheet                                                                                                                                                                                                                                                                                        |
+| **Query Language**             | - A computer programming language that allows you to retrieve and manipulate data from a database<br>- Can `INSERT`, `DELETE`, `SELECT` or `UPDATE` data<br>- Allow analysts to isolate specific information for databases<br>- Makes it easier to learn and understand the requests made to databases<br>- Allow analysts to select, create, add, or download data from a database for analysis |
+| **Tableau**                    | - Helps create visuals that are easy to understand<br>- **Drag & Drop** feature lets users create interactive graphs in dashboards and worksheets                                                                                                                                                                                                                                                |
+| **Looker**                     | - Communicates directly with a database, allowing you to connect your data right to the visual tool you choose<br>- Shows you the visualization of the data and the actual data related to it                                                                                                                                                                                                    |
+| **Choose a Spreadsheet**       | - Accessed through a software application<br>- Structured data in a row and column format<br>- Organizes information in cells<br>- Provides access to a limited amount of data<br>- Manual data entry<br>- Generally one user at a time<br>- Controlled by the user                                                                                                                              |
+| **Choose a Database**          | - Database accessed using a query language<br>- Structured data using rules and relationships<br>- Organizes information in complex collections<br>- Provides access to huge amounts of data<br>- Strict and consistent data entry<br>- Multiple users<br>- Controlled by a database management system                                                                                           |
+## Cues
+
+- What is the term for a digital worksheet that data analysts use to store, organize, and sort data?
+- What is a key difference between a formula and a function?
+- What does SQL stand for?
+- Which tool in the data analysts toolbox is most likely to involve the creation of graphs, maps, or charts?
+
+---
+
+## Summary
+
+Spreadsheets are digital worksheets suitable for organizing, cleaning, and analyzing small to medium datasets. Databases are ideal for storing, managing, and analyzing large and complex datasets. A data analyst will use a combination of these two methods, plus potentially programming languages to handle a wide range of analysis tasks.
+
+The Plan and Ask phases both involve planning and asking questions, but they tackle different subjects. The Ask phase in the data analysis process focuses on big-picture strategic thinking about business goals. However, the Plan phase focuses on the fundamentals of the project, such as what data you have access to, what data you need, and where you’re going to get it.
+
+A formula is a set of instructions, whereas a function is a preset command. SQL stands for Structured Query Language, and this enables data analysts to communicate with a database. Data visualization is most likely to involve the creation of graphs, maps, or charts.
