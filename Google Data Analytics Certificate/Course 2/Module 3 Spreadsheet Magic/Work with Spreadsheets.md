@@ -1,6 +1,6 @@
 # Course 2: Ask Questions to Make Data-Driven Decisions
 
-## Module 3: Database Essentials
+## Work with Spreadsheets
 
 | Concept     | Notes                  |
 | ----------- | ---------------------- |

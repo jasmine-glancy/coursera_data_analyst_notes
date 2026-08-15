@@ -1,6 +1,6 @@
 # Course 2: Ask Questions to Make Data-Driven Decisions
 
-## Module 2: Data Responsibility
+## Formulas in Spreadsheets
 
 | Concept     | Notes                  |
 | ----------- | ---------------------- |
