@@ -21,6 +21,8 @@
 - What problem type involves recognizing broader concepts and trends from categorized data?
 - What problem type involves identifying similar challenges across different entities—and using data and insights to find common solutions?
 - What problem type involves using historical data about what happened in the past to understand how likely it is to happen again?
+- Fill in the blank: When solving the ___ problem type, a junior data analyst at a home goods retailer provider analyzes sales data from the past three years. They then use this information to understand what led to slumps in customer demand and what is likely to cause them again.
+- Fill in the blank: When solving the ___ problem type, a junior data analyst identifies a technological breakthrough that is likely to disrupt their industry.
 
 ---
 
@@ -29,3 +31,5 @@
 There are six main problem types you will see as a data analyst. Making predictions involves using data to make informed decisions about how things may be in the future. Categorizing things involves grouping data based on common features. Spotting something unusual involves identifying data that is different from the norm. Identifying themes involves recognizing broader concepts and trends from categorized data
 
 Discovering connections involves identifying similar challenges across different entities—and using data and insights to find common solutions. Finding patterns involves using historical data about what happened in the past to understand how likely it is to happen again
+
+When solving the finding patterns problem type, a junior data analyst at a home goods retailer provider analyzes sales data from the past three years. They then use this information to understand what led to slumps in customer demand and what is likely to cause them again. When solving the Spotting Something Unusual problem type, a junior data analyst identifies a technological breakthrough that is likely to disrupt their industry.

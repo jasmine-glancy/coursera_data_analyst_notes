@@ -20,9 +20,13 @@
 - What questions lead to answers that can be quantified and assessed align with which component of the SMART methodology?
 - A data analyst uses the SMART methodology to create a question that encourages change. In the SMART methodology, how is this question type described?
 - When formulating a Specific (S) question under the SMART methodology, what details are prioritized to ensure the scope of the analysis is narrow and focused?
+- Describe the SMART methodology.
+- Fill in the blank: The question, “How can we create a more innovative culture by empowering our employees to take risks?” is ___ because it encourages change.
 
 ---
 
 ## Summary
 
 Effective questions follow the SMART methodology. These are Specific, Measurable, Action-oriented, Relevant, Time-bound questions. Specific questions must clearly define the single topic/subject and the single measurement/metric being analyzed. Specificity requires a narrow scope, centering on one main topic rather than a broad organizational goal. Additionally, a specific question is easy to understand and avoids vague language or multiple interpretations.
+
+Relevant questions matter, are important, and have significance to the problem. The question, “How can we create a more innovative culture by empowering our employees to take risks?” is action-oriented because it encourages change.
