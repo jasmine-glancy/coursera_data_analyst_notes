@@ -27,7 +27,6 @@
 
 ### Module 1
 
-- [[Ask Effective Questions]]
 - [[Take Action with Data]]
 - [[Solve Problems with Data]]
 - [[Always Remember the Stakeholder]]

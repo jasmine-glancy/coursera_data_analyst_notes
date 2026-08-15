@@ -4,7 +4,6 @@
 ### Module 1: Ask effective questions
 Data analysts are constantly asking questions in order to find solutions and identify business potential. In this part of the course, you’ll learn about effective questioning techniques that will help guide your analysis.
 
-- [[Ask Effective Questions]]
 - [[Take Action with Data]]
 - [[Solve Problems with Data]]
 - [[Always Remember the Stakeholder]]
