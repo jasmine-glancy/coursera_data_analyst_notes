@@ -3,12 +3,12 @@
 **Started:** August 10, 2026  
 **Target completion date:**  
 **Estimated coursework:** 152 hours  
-**Overall progress:** 0/9 courses
+**Overall progress:** 1/9 courses
 
 > [!tip] Current Focus
-> **Course:**  Master Spreadsheet Basics
-> **Module:**  Course 2, Module 1
-> **Next action:**  Complete Course 2, Module 1
+> **Course:**  Ask Questions to Make Data-Driven Decisions
+> **Module:**  Course 2, Module 2
+> **Next action:**  Complete Course 2, Module 2
 
 ---
 
@@ -44,7 +44,7 @@
 **Estimated time:** 15 hours
 
 - [x] Begin Course 2
-- [ ] Complete Module 1
+- [x] Complete Module 1
 - [ ] Complete Module 2
 - [ ] Complete Module 3
 - [ ] Complete Module 4
@@ -61,7 +61,7 @@
 
 ### Key takeaways
 
-- 
+- Effective questions are fair and follow the SMART Methodology; Specific, Measurable, Action-Oriented, Relevant, and Time-bound.
 - 
 - 
 
