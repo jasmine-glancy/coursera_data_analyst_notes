@@ -7,7 +7,6 @@ Data analysts are constantly asking questions in order to find solutions and ide
 - [[Take Action with Data]]
 - [[Solve Problems with Data]]
 - [[Craft Effective Questions]]
-- [[Always Remember the Stakeholder]]
 
 ### Module 2: Make data-driven decisions
 In analytics, data drives decision-making, and this is your opportunity to explore data of all kinds and its impact on all sorts of business decisions. You’ll also learn how to effectively share your data through reports and dashboards.
