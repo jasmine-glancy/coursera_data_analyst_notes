@@ -1,6 +1,6 @@
 # Course 2: Ask Questions to Make Data-Driven Decisions
 
-## Module 4: Organize and Protect Data
+## Follow the Evidence
 
 | Concept     | Notes                  |
 | ----------- | ---------------------- |

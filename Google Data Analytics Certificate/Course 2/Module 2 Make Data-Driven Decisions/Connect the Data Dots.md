@@ -1,6 +1,6 @@
 # Course 2: Ask Questions to Make Data-Driven Decisions
 
-## Module 1: Data Types and Structures
+## Connect the Data Dots
 
 | Concept     | Notes                  |
 | ----------- | ---------------------- |
