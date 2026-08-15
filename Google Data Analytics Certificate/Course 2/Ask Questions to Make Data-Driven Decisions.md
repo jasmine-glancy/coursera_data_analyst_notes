@@ -6,6 +6,7 @@ Data analysts are constantly asking questions in order to find solutions and ide
 
 - [[Take Action with Data]]
 - [[Solve Problems with Data]]
+- [[Craft Effective Questions]]
 - [[Always Remember the Stakeholder]]
 
 ### Module 2: Make data-driven decisions
