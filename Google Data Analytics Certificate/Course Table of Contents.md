@@ -30,3 +30,22 @@
 - [[Take Action with Data]]
 - [[Solve Problems with Data]]
 - [[Craft Effective Questions]]
+
+### Module 2
+
+- [[Understand the Power of Data]]
+- [[Follow the Evidence]]
+- [[Connect the Data Dots]]
+
+### Module 3
+
+- [[Work with Spreadsheets]]
+- [[Formulas in Spreadsheets]]
+- [[Functions in Spreadsheets]]
+- [[Save Time with Structured Thinking]]
+
+### Module 4
+
+- [[Balance Team and Stakeholder Needs]]
+- [[Clear Communication is Key]]
+- [[Amazing Teamwork]]
