@@ -7,8 +7,8 @@
 
 > [!tip] Current Focus
 > **Course:**  Ask Questions to Make Data-Driven Decisions
-> **Module:**  Course 2, Module 2
-> **Next action:**  Complete Course 2, Module 2
+> **Module:**  Course 2, Module 3
+> **Next action:**  Complete Course 2, Module 3
 
 ---
 
@@ -45,7 +45,7 @@
 
 - [x] Begin Course 2
 - [x] Complete Module 1
-- [ ] Complete Module 2
+- [x] Complete Module 2
 - [ ] Complete Module 3
 - [ ] Complete Module 4
 - [ ] Finish all videos
