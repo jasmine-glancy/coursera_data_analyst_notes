@@ -20,6 +20,8 @@
 - An ___ is a process or set of rules that may be followed in order to perform a specific task.
 - A data professional at a web design firm collects data about website users. The data indicates the number of times each user visits the website. It also shows the duration of their visits, in seconds. What type of data is being collected?
 - A human resources manager collects feedback from employees during their exit interviews. The employees are asked to share their feelings about company culture, which benefits they enjoyed most, and suggestions for ways to improve performance. What type of data is the manager collecting?
+- A data analyst at a staffing agency automates a process to schedule temporary employees. First, a list of all employees is compiled. Then, they are sorted by availability, area of expertise, and past performance ratings. Finally, employees for each open position are listed. What does this scenario describe?
+- Which of the following statements accurately describe qualitative and quantitative data?
 
 ---
 
