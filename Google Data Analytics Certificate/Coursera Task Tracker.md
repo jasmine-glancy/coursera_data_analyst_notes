@@ -3,12 +3,12 @@
 **Started:** August 10, 2026  
 **Target completion date:**  
 **Estimated coursework:** 152 hours  
-**Overall progress:** 1/9 courses
+**Overall progress:** 2/9 courses
 
 > [!tip] Current Focus
 > **Course:**  Ask Questions to Make Data-Driven Decisions
-> **Module:**  Course 2, Module 3
-> **Next action:**  Complete Course 2, Module 3
+> **Module:**  Course 3, Module 1
+> **Next action:**  Begin Course 3
 
 ---
 
@@ -46,24 +46,24 @@
 - [x] Begin Course 2
 - [x] Complete Module 1
 - [x] Complete Module 2
-- [ ] Complete Module 3
-- [ ] Complete Module 4
-- [ ] Finish all videos
-- [ ] Finish all readings
-- [ ] Complete all spreadsheet activities
-- [ ] Complete all practice activities
-- [ ] Complete all graded assignments
-- [ ] Review missed questions
-- [ ] Record key concepts in my notes
-- [ ] Identify one work-related application
-- [ ] Complete Course 2
-- [ ] Celebrate checkpoint #2 🎉
+- [x] Complete Module 3
+- [x] Complete Module 4
+- [x] Finish all videos
+- [x] Finish all readings
+- [x] Complete all spreadsheet activities
+- [x] Complete all practice activities
+- [x] Complete all graded assignments
+- [x] Review missed questions
+- [x] Record key concepts in my notes
+- [x] Identify one work-related application
+- [x] Complete Course 2
+- [x] Celebrate checkpoint #2 🎉
 
 ### Key takeaways
 
 - Effective questions are fair and follow the SMART Methodology; Specific, Measurable, Action-Oriented, Relevant, and Time-bound.
-- 
-- 
+- The Problem Domain is everything pertaining to a problem and is the first step of creating a scope of work. 
+- You can use SMART questions to create a scope of work for your stakeholders to understand project deliverables, milestones, timelines, and reports.
 
 ---
 
