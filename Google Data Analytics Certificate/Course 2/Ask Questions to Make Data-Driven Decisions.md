@@ -67,6 +67,7 @@ Successful data analysts balance the needs and expectations of their team and th
 | **Qualitative data**              | - A subjective and explanatory measure of a quality or characteristic                                                                                                                                 |
 | **Quantitative data**             | - A specific and objective measure, such as a number, quantity, or range                                                                                                                              |
 | **Range**                         | - A collection of two or more cells in a spreadsheet                                                                                                                                                  |
+| **Reframing**                     | - Restating a problem or challenge, then redirecting it toward a potential resolution                                                                                                                 |
 | **Relevant question**             | - A question that has significance to the problem to be solved                                                                                                                                        |
 | **Report**                        | - A static collection of data periodically given to stakeholders                                                                                                                                      |
 | **Return on investment (ROI)**    | - A formula that uses the metrics of investment and profit to evaluate the success of an investment                                                                                                   |
@@ -79,7 +80,10 @@ Successful data analysts balance the needs and expectations of their team and th
 | **Structured thinking**           | - The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying options                                            |
 | **SUM**                           | - A spreadsheet function that adds the values of a selected range of cells                                                                                                                            |
 | **Time-bound question**           | - A question that specifies a timeframe to be studied                                                                                                                                                 |
+| **Turnover Rate**                 | - The rate at which employees voluntarily leave a company                                                                                                                                             |
 | **Unfair question**               | - A question that makes assumptions or is difficult to answer honestly                                                                                                                                |
+
+
 
 
 
