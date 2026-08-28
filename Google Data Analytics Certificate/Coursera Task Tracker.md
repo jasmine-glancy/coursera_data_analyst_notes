@@ -8,7 +8,7 @@
 > [!tip] Current Focus
 > **Course:**  Ask Questions to Make Data-Driven Decisions
 > **Module:**  Course 3, Module 1
-> **Next action:**  Begin Course 3
+> **Next action:**  Complete Module 1
 
 ---
 
@@ -71,7 +71,7 @@
 
 **Estimated time:** 19 hours
 
-- [ ] Begin Course 3
+- [x] Begin Course 3
 - [ ] Complete Module 1
 - [ ] Complete Module 2
 - [ ] Complete Module 3
