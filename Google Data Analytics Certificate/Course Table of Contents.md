@@ -55,3 +55,4 @@
 ### Module 1
 
 - [[Collect Data]]
+- [[Differentiate Data Formats and Structures]]
