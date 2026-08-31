@@ -18,6 +18,7 @@
 - For data analytics projects, ___ data is typically preferred because users know it originated within the organization.
 - A grocery store chain purchases customer data from a credit card company. The grocer uses this data to identify its most loyal customers and offer them special promotions and discounts. What type of data is being used in this scenario?
 - In data analytics, what term refers to all possible data values in a dataset?
+- Describe first-, second-, and third-party data.
 
 ---
 
@@ -25,3 +26,5 @@
 
 Cookies are small files stored on computers that contain information about users.
  For data analytics projects, first-party data is typically preferred because users know it originated within the organization. First-party data is collected by an individual or group using their own resources. Second-party data is collected by a group directly from its audience and then sold. Third-party data collected from outside sources who did not collect it directly. A population refers to all possible data values in a dataset.
+ 
+A key benefit of using first-party data is that the user knows where it came from. Second-party data is sold by a trusted partner to another party. When using third-party data, it’s important to confirm its accuracy. First-, second-, and third-party data should all be checked for accuracy before use.
