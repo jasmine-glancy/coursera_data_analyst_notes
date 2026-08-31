@@ -1,4 +1,4 @@
-# Course 3: Data Types and Structures
+# Module 1: Data Types and Structures
 
 ## Differentiate Data Formats and Structures
 
