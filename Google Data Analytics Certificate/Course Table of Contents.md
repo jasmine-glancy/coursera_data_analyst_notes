@@ -56,3 +56,4 @@
 
 - [[Collect Data]]
 - [[Differentiate Data Formats and Structures]]
+- [[Explore Data Types, Fields, and Values]]
