@@ -1,0 +1,21 @@
+# Module 3: Database Essentials
+
+## Sort and Filter Data
+
+| Concept                       | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sorting**                   | - Arranging data into a meaningful order to make it easier to understand, analyze, and visualize                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Filtering**                 | - Simplifies a spreadsheet by only showing the information we need<br>    <br>- The filter hides anything that doesn’t meet the condition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Spreadsheets vs Databases** | - **How is data stored?**<br>&emsp;• <u>Spreadsheet</u><br>&emsp;&emsp;• CSV<br>&emsp;&emsp;• Tables<br>&emsp;&emsp;• Google Sheets<br>&emsp;&emsp;• Excel<br>&emsp;• <u>Database</u><br>&emsp;&emsp;• In the cloud<br>&emsp;&emsp;•  Company servers<br>    <br><br>- **How are each of them used to interact with data?**<br>&emsp;• <u>Spreadsheet</u><br>&emsp;&emsp;• Formulas<br>&emsp;&emsp;• References<br>&emsp;&emsp;• Functions<br>&emsp;&emsp;• Filtering<br>&emsp;&emsp;• Sorting<br>&emsp;• <u>Database</u><br>&emsp;&emsp;• Structured Query Language (SQL)<br>&emsp;&emsp;• Filtering<br>&emsp;&emsp;• Sorting |
+## Cues
+
+- What is the process for arranging data into a meaningful order to make it easier to understand, analyze, and visualize?
+- A data analyst is reviewing a national database of real estate sales. They are only interested in sales of condominiums. How can the analyst narrow their scope?
+- A data analyst works for a rental car company. They have a spreadsheet that lists car ID numbers and the dates cars were returned. How should they sort the spreadsheet to find the most recently returned cars?
+- To keep a header row at the top of a spreadsheet, highlight the row and select __ from the View menu.
+
+---
+
+## Summary
+
+Sorting is the process for arranging data into a meaningful order to make it easier to understand, analyze, and visualize. Filtering removes data from your view if it doesn’t match the conditions in your filters, allowing you to view data only on the rows you specify. To keep a header row at the top of a spreadsheet, highlight the row and select freeze from the View menu.

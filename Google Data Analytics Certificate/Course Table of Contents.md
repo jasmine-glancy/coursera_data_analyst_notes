@@ -64,3 +64,11 @@
 - [[Achieve Data Credibility]]
 - [[Data Ethics and Privacy]]
 - [[Understand Open Data]]
+
+### Module 3
+
+- [[Work With Datasets]]
+- [[Manage Data with Metadata]]
+- [[Access Different Data Sources]]
+- [[Sort and Filter Data]]
+- [[Large Datasets in SQL]]
