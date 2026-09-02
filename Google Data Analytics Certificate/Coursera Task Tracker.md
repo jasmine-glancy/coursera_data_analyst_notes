@@ -3,12 +3,12 @@
 **Started:** August 10, 2026  
 **Target completion date:**  
 **Estimated coursework:** 152 hours  
-**Overall progress:** 2/9 courses
+**Overall progress:** 3/9 courses
 
 > [!tip] Current Focus
-> **Course:**  Ask Questions to Make Data-Driven Decisions
-> **Module:**  Course 3, Module 2
-> **Next action:**  Complete Module 2
+> **Course:**  Prepare Data for Exploration
+> **Module:**  Course 3, Module 4
+> **Next action:**  Complete Module 4
 
 ---
 
@@ -73,8 +73,8 @@
 
 - [x] Begin Course 3
 - [x] Complete Module 1
-- [ ] Complete Module 2
-- [ ] Complete Module 3
+- [x] Complete Module 2
+- [x] Complete Module 3
 - [ ] Complete Module 4
 - [ ] Complete Module 5
 - [ ] Finish all videos
@@ -90,7 +90,7 @@
 
 ### Key takeaways
 
-- 
+- Data is people! You have a responsibility as a data analyst to protect the person's privacy. You can sort and filter data with Structured Query Language (SQL) or with Excel/Google Sheets.
 - 
 - 
 

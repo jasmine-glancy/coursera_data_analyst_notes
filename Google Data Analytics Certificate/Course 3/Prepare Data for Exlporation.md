@@ -19,7 +19,11 @@ Before you work with data, you must confirm that it is unbiased and credible. Af
 ### Module 3: Database essentials
 When you analyze large datasets, you’ll access much of the data from a database. In this part of the course, you will learn about databases, including how to access them and extract, filter, and sort the data they contain. You’ll also explore metadata to discover its many facets and how analysts use it to better understand their data.
 
-- 
+- [[Work With Datasets]]
+- [[Manage Data with Metadata]]
+- [[Access Different Data Sources]]
+- [[Sort and Filter Data]]
+- [[Large Datasets in SQL]]
 
 ### Module 4: Organize and Protect Data
 Good organizational skills are a big part of most types of work, especially data analytics. In this part of the course, you will learn best practices for organizing data and keeping it secure. You’ll also understand how analysts use file naming conventions to help them keep their work organized.
@@ -34,6 +38,7 @@ Having a strong online presence can be a big help for job seekers of all kinds. 
 
 | Term                                                                | Notes                                                                                                                                                                             |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Administrative metadata**                                         | - Metadata that indicates the technical source of a digital asset                                                                                                                 |
 | **Agenda**                                                          | - A list of scheduled appointments                                                                                                                                                |
 | **Audio File**                                                      | - Digitized audio storage usually in an MP3, AAC, or other compressed format                                                                                                      |
 | **Bad data source**                                                 | - A data source that is not reliable, original, comprehensive, current, and cited (ROCCC)                                                                                         |
@@ -43,13 +48,16 @@ Having a strong online presence can be a big help for job seekers of all kinds. 
 | **Consent**                                                         | - The aspect of data ethics that presumes an individual’s right to know how and why their personal data will be used before agreeing to provide it                                |
 | **Continuous Data**                                                 | - Data that is measured and can have almost any numeric value                                                                                                                     |
 | **Cookie**                                                          | - A small file stored on a computer that contains information about its users                                                                                                     |
+| **CSV (comma-separated values) file**                               | - A delimited text file that uses a comma to separate values                                                                                                                      |
 | **Currency**                                                        | - The aspect of data ethics that presumes individuals should be aware of financial transactions resulting from the use of their personal data and the scale of those transactions |
 | **Data anonymization**                                              | - The process of protecting people's private or sensitive data by eliminating identifying information                                                                             |
 | **Data bias**                                                       | - When a preference in favor of or against a person, group of people, or thing systematically skews data analysis results in a certain direction                                  |
 | **Data Element**                                                    | - A piece of information in a dataset                                                                                                                                             |
 | **Data Ethics**                                                     | - Well-founded standards of right and wrong that dictate how data is collected, shared, and used                                                                                  |
+| **Data governance**                                                 | - A process for ensuring the formal management of a company’s data assets                                                                                                         |
 | **Data interoperability**                                           | - A key factor leading to the successful use of open data among companies and governments                                                                                         |
 | **Data Model**                                                      | - A tool for organizing data elements and how they relate to one another                                                                                                          |
+| **Descriptive metadata**                                            | - Metadata that describes a piece of data and can be used to identify it at a later point in time                                                                                 |
 | **Digital Photo**                                                   | - An electronic or computer-based image usually in BMP or JPG format                                                                                                              |
 | **Data privacy**                                                    | - Preserving a data subject’s information any time a data transaction occurs                                                                                                      |
 | **Discrete Data**                                                   | - Data that is counted and has a limited number of values                                                                                                                         |
@@ -59,11 +67,19 @@ Having a strong online presence can be a big help for job seekers of all kinds. 
 | **Fairness**                                                        | - A quality of data analysis that does not create or reinforce bias                                                                                                               |
 | **Field**                                                           | - A single piece of information from a row or column of a spreadsheet; in a data table, typically a column in the table                                                           |
 | **First-party Data**                                                | - Data collected by an individual or group using their own resources                                                                                                              |
+| **Foreign key**                                                     | - A field within a database table that is a primary key in another table (Refer to primary key)                                                                                   |
+| **`FROM`**                                                          | - The section of a query that indicates where the selected data comes from                                                                                                        |
 | **General Data Protection Regulation of the European Union (GDPR)** | - Policy-making body in the European Union created to help protect people and their data                                                                                          |
+| **Geolocation**                                                     | - The geographical location of a person or device by means of digital information                                                                                                 |
 | **Good data source**                                                | - A data source that is reliable, original, comprehensive, current, and cited (ROCCC)                                                                                             |
 | **Interpretation bias**                                             | - The tendency to interpret ambiguous situations in a positive or negative way                                                                                                    |
 | **Long Data**                                                       | - A dataset in which each row is one time point per subject, so each subject has data in multiple rows                                                                            |
+| **Metadata**                                                        | - Data about data                                                                                                                                                                 |
+| **Metadata repository**                                             | - A database created to store metadata                                                                                                                                            |
+| **Naming conventions**                                              | - Consistent guidelines that describe the content, creation date, and version of a file in its name                                                                               |
 | **Nominal Data**                                                    | - A type of qualitative data that is categorized without a set order                                                                                                              |
+| **Normalized database**                                             | - A database in which only related data is stored in each table                                                                                                                   |
+| **Notebook**                                                        | - An interactive, editable programming environment for creating data reports and showcasing data skills                                                                           |
 | **Observer bias**                                                   | - The tendency for different people to observe things differently (also called experimenter bias)                                                                                 |
 | **Ordinal Data**                                                    | - Qualitative data with a set order or scale                                                                                                                                      |
 | **Open Data**                                                       | - Data that is available to the public                                                                                                                                            |
@@ -71,20 +87,44 @@ Having a strong online presence can be a big help for job seekers of all kinds. 
 | **Ownership**                                                       | - The aspect of data ethics that presumes individuals own the raw data they provide and have primary control over its usage, processing, and sharing                              |
 | **Pixel**                                                           | - In digital imaging, a small area of illumination on a display screen that, when combined with other adjacent areas, forms a digital image                                       |
 | **Population**                                                      | - In data analytics, all possible data values in a dataset                                                                                                                        |
+| **Primary key**                                                     | - An identifier in a database that references a column in which each value is unique (Refer to foreign key)                                                                       |
 | **Record**                                                          | - A collection of related data in a data table, usually synonymous with row                                                                                                       |
+| **Redundancy**                                                      | - When the same piece of data is stored in two or more places                                                                                                                     |
 | **Sample**                                                          | - In data analytics, a segment of a population that is representative of the entire population                                                                                    |
 | **Sampling bias**                                                   | - Overrepresenting or underrepresenting certain members of a population as a result of working with a sample that is not representative of the population as a whole              |
+| **Schema**                                                          | - A way of describing how something, such as data, is organized                                                                                                                   |
 | **Second-Party Data**                                               | - Data collected by a group directly from its audience and then sold                                                                                                              |
+| **`SELECT`**                                                        | - The section of a query that indicates the subset of a dataset                                                                                                                   |
 | **Social Media**                                                    | - Websites and applications through which users create and share content or participate in social networking                                                                      |
 | **String Data Type**                                                | - A sequence of characters and punctuation that contains textual information (Refer to Text data type)                                                                            |
 | **Structured Data**                                                 | - Data organized in a certain format such as rows and columns                                                                                                                     |
+| **Structural metadata**                                             | - Metadata that indicates how a piece of data is organized and whether it is part of one or more than one data collection                                                         |
 | **Text Data Type**                                                  | - A sequence of characters and punctuation that contains textual information (also called string data type)                                                                       |
 | **Transaction transparency**                                        | - The aspect of data ethics that presumes all data-processing activities and algorithms should be explainable and understood by the individual who provides the data              |
 | **Unbiased sampling**                                               | - When the sample of the population being measured is representative of the population as a whole                                                                                 |
 | **United States Census Bureau**                                     | - An agency in the U.S. Department of Commerce that serves as the nation’s leading provider of quality data about its people and economy                                          |
 | **Unstructured Data**                                               | - Data that is not organized in any easily identifiable manner                                                                                                                    |
 | **Video File**                                                      | - A collection of images, audio files, and other data usually encoded in a compressed format such as MP4, MV4, MOV, AVI, or FLV                                                   |
+| **`WHERE`**                                                         | - The section of a query that specifies criteria that the requested data must meet                                                                                                |
 | **Wide Data**                                                       | - A dataset in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject                                            |
+| **World Health Organization**                                       | - An organization whose primary role is to direct and coordinate international health within the United Nations system                                                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
