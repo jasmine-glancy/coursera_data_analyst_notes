@@ -57,3 +57,10 @@
 - [[Collect Data]]
 - [[Differentiate Data Formats and Structures]]
 - [[Explore Data Types, Fields, and Values]]
+
+### Module 2
+
+- [[Unbiased and Objective Data]]
+- [[Achieve Data Credibility]]
+- [[Data Ethics and Privacy]]
+- [[Understand Open Data]]
