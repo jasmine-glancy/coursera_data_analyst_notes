@@ -65,6 +65,7 @@
 - The Problem Domain is everything pertaining to a problem and is the first step of creating a scope of work. 
 - You can use SMART questions to create a scope of work for your stakeholders to understand project deliverables, milestones, timelines, and reports.
 
+
 ---
 
 ## Course 3: Prepare Data for Exploration
@@ -100,7 +101,7 @@
 
 **Estimated time:** 16 hours
 
-- [ ] Begin Course 4
+- [x] Begin Course 4
 - [ ] Complete Module 1
 - [ ] Complete Module 2
 - [ ] Complete Module 3
