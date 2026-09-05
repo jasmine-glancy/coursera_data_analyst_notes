@@ -28,16 +28,18 @@ When you analyze large datasets, you’ll access much of the data from a databas
 ### Module 4: Organize and Protect Data
 Good organizational skills are a big part of most types of work, especially data analytics. In this part of the course, you will learn best practices for organizing data and keeping it secure. You’ll also understand how analysts use file naming conventions to help them keep their work organized.
 
-- 
+- [[Bring Data to Order]]
+- [[Secure Data]]
 
 ### Module 5: Engage in the Data Community
 Having a strong online presence can be a big help for job seekers of all kinds. In this part of the course, you will explore how to manage your online presence. You’ll also discover the benefits of networking with other data analytics professionals.
 
-- 
+- [[Connections, Social Media, and Networking]]
 ## Terms
 
 | Term                                                                | Notes                                                                                                                                                                             |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Access Control**                                                  | - Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet                                                                   |
 | **Administrative metadata**                                         | - Metadata that indicates the technical source of a digital asset                                                                                                                 |
 | **Agenda**                                                          | - A list of scheduled appointments                                                                                                                                                |
 | **Audio File**                                                      | - Digitized audio storage usually in an MP3, AAC, or other compressed format                                                                                                      |
@@ -57,6 +59,7 @@ Having a strong online presence can be a big help for job seekers of all kinds. 
 | **Data governance**                                                 | - A process for ensuring the formal management of a company’s data assets                                                                                                         |
 | **Data interoperability**                                           | - A key factor leading to the successful use of open data among companies and governments                                                                                         |
 | **Data Model**                                                      | - A tool for organizing data elements and how they relate to one another                                                                                                          |
+| **Data Security**                                                   | - Protecting data from unauthorized access or corruption by adopting safety measures                                                                                              |
 | **Descriptive metadata**                                            | - Metadata that describes a piece of data and can be used to identify it at a later point in time                                                                                 |
 | **Digital Photo**                                                   | - An electronic or computer-based image usually in BMP or JPG format                                                                                                              |
 | **Data privacy**                                                    | - Preserving a data subject’s information any time a data transaction occurs                                                                                                      |
@@ -72,6 +75,7 @@ Having a strong online presence can be a big help for job seekers of all kinds. 
 | **General Data Protection Regulation of the European Union (GDPR)** | - Policy-making body in the European Union created to help protect people and their data                                                                                          |
 | **Geolocation**                                                     | - The geographical location of a person or device by means of digital information                                                                                                 |
 | **Good data source**                                                | - A data source that is reliable, original, comprehensive, current, and cited (ROCCC)                                                                                             |
+| **Inbox**                                                           | - Electronic storage where emails received by an individual are held                                                                                                              |
 | **Interpretation bias**                                             | - The tendency to interpret ambiguous situations in a positive or negative way                                                                                                    |
 | **Long Data**                                                       | - A dataset in which each row is one time point per subject, so each subject has data in multiple rows                                                                            |
 | **Metadata**                                                        | - Data about data                                                                                                                                                                 |
@@ -108,6 +112,9 @@ Having a strong online presence can be a big help for job seekers of all kinds. 
 | **`WHERE`**                                                         | - The section of a query that specifies criteria that the requested data must meet                                                                                                |
 | **Wide Data**                                                       | - A dataset in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject                                            |
 | **World Health Organization**                                       | - An organization whose primary role is to direct and coordinate international health within the United Nations system                                                            |
+
+
+
 
 
 

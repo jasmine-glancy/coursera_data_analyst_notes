@@ -3,12 +3,12 @@
 **Started:** August 10, 2026  
 **Target completion date:**  
 **Estimated coursework:** 152 hours  
-**Overall progress:** 3/9 courses
+**Overall progress:** 4/9 courses
 
 > [!tip] Current Focus
-> **Course:**  Prepare Data for Exploration
-> **Module:**  Course 3, Module 4
-> **Next action:**  Complete Module 4
+> **Course:**  Process Data from Dirty to Clean
+> **Module:**  Course 4, Module 1
+> **Next action:**  Complete Module 1
 
 ---
 
@@ -75,24 +75,24 @@
 - [x] Complete Module 1
 - [x] Complete Module 2
 - [x] Complete Module 3
-- [ ] Complete Module 4
-- [ ] Complete Module 5
-- [ ] Finish all videos
-- [ ] Finish all readings
-- [ ] Complete all SQL activities
-- [ ] Complete all data-organization activities
-- [ ] Complete all practice activities
-- [ ] Complete all graded assignments
-- [ ] Review missed questions
-- [ ] Record key concepts in my notes
-- [ ] Complete Course 3
-- [ ] Celebrate checkpoint #3 🎉
+- [x] Complete Module 4
+- [x] Complete Module 5
+- [x] Finish all videos
+- [x] Finish all readings
+- [x] Complete all SQL activities
+- [x] Complete all data-organization activities
+- [x] Complete all practice activities
+- [x] Complete all graded assignments
+- [x] Review missed questions
+- [x] Record key concepts in my notes
+- [x] Complete Course 3
+- [x] Celebrate checkpoint #3 🎉
 
 ### Key takeaways
 
 - Data is people! You have a responsibility as a data analyst to protect the person's privacy. You can sort and filter data with Structured Query Language (SQL) or with Excel/Google Sheets.
-- 
-- 
+- Organizing data can make data analysis and finding historic solutions when you need them. 
+- Kaggle has many similar features as GitHub (version control, sharing datasets, badges, progress bars). You can add this to your growth list to learn new data techniques and share solutions.
 
 ---
 

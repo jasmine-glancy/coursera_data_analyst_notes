@@ -72,3 +72,16 @@
 - [[Access Different Data Sources]]
 - [[Sort and Filter Data]]
 - [[Large Datasets in SQL]]
+
+### Module 4
+
+- [[Bring Data to Order]]
+- [[Secure Data]]
+
+### Module 5
+
+- [[Connections, Social Media, and Networking]]
+
+## Course 4
+
+
