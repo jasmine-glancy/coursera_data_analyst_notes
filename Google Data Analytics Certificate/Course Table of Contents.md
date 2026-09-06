@@ -84,4 +84,7 @@
 
 ## Course 4
 
+### Module 1
 
+- [[Data Integrity and Analytics Objectives]]
+- [[Overcome the Challenges of Insufficient Data]]

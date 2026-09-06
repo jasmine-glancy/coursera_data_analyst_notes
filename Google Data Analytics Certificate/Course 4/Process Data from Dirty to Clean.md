@@ -5,6 +5,7 @@
 Data integrity is critical to successful analysis. In this part of the course, you’ll explore methods and steps that analysts take to check their data for integrity. This includes knowing what to do when you don’t have enough data. You’ll also learn about random samples and understand how to avoid sampling bias. All of these methods will also help you ensure your analysis is successful.
 
 - [[Data Integrity and Analytics Objectives]]
+- [[Overcome the Challenges of Insufficient Data]]
 
 ### Module 2: Clean Data for More Accurate Insights
 Every data analyst wants to analyze clean data. In this part of the course, you’ll learn the difference between clean and dirty data. Then, you’ll practice cleaning data in spreadsheets and other tools.
