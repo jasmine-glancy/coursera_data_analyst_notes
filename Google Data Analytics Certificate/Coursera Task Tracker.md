@@ -7,8 +7,8 @@
 
 > [!tip] Current Focus
 > **Course:**  Process Data from Dirty to Clean
-> **Module:**  Course 4, Module 1
-> **Next action:**  Complete Module 1
+> **Module:**  Course 4, Module 2
+> **Next action:**  Complete Module 2
 
 ---
 
@@ -102,7 +102,7 @@
 **Estimated time:** 16 hours
 
 - [x] Begin Course 4
-- [ ] Complete Module 1
+- [x] Complete Module 1
 - [ ] Complete Module 2
 - [ ] Complete Module 3
 - [ ] Complete Module 4
