@@ -102,7 +102,7 @@
 **Estimated time:** 16 hours
 
 - [x] Begin Course 4
-- [ ] Complete Module 1
+- [x] Complete Module 1
 - [ ] Complete Module 2
 - [ ] Complete Module 3
 - [ ] Complete Module 4
@@ -121,7 +121,14 @@
 
 ### Key takeaways
 
-- 
+- Dirty data includes duplicate data, outdated data, incomplete data, incorrect or inaccurate data, and inconsistent data. Each type of dirty data can have a significant impact on analyses, leading to inaccurate insights, poor decision-making, and revenue loss
+	- Causes of dirty data: 
+		- Manual data entry errors
+		- Batch data imports
+		- Data migration
+		- Software obsolescence
+		- Improper data collection
+		- Human errors during data input.
 - 
 - 
 
