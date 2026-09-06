@@ -90,3 +90,7 @@
 - [[Overcome the Challenges of Insufficient Data]]
 - [[Test Your Data]]
 - [[Consider the Margin of Error]]
+
+### Module 2
+
+- [[Data Cleaning is a Must]]
