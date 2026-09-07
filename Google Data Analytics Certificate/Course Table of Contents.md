@@ -94,3 +94,5 @@
 ### Module 2
 
 - [[Data Cleaning is a Must]]
+- [[First Steps Toward Clean Data]]
+- [[Continue Cleaning Data in Spreadsheets]]
