@@ -19,10 +19,14 @@
 - To create a clean and consistent visual appearance for a spreadsheet, which tool ensures all font types, sizes, and colors are uniform?
 - What is the process of combining two or more datasets into a single dataset?
 - In data analytics, ___ describes how well two or more datasets are able to work together.
+- What should a data analyst do to ensure the compatibility of the two datasets?
 - What are some benefits of documenting any errors you find while data cleaning?
+- 
 
 ---
 
 ## Summary
 
-To create a clean and consistent visual appearance for a spreadsheet, clear formats ensures all font types, sizes, and colors are uniform. Data merging is the process of combining two or more datasets into a single dataset. Compatibility describes how well two or more datasets are able to work together. Saving time by not repeating errors in the future, keeping track of changes, and more efficient troubleshooting are benefits of documenting any errors you find while data cleaning.
+To create a clean and consistent visual appearance for a spreadsheet, clear formats ensures all font types, sizes, and colors are uniform. Data merging is the process of combining two or more datasets into a single dataset. Compatibility describes how well two or more datasets are able to work together. Map the data of the datasets you intend to merge to ensure their compatibility.
+
+Saving time by not repeating errors in the future, keeping track of changes, and more efficient troubleshooting are benefits of documenting any errors you find while data cleaning.

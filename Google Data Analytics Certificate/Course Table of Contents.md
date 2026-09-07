@@ -96,3 +96,7 @@
 - [[Data Cleaning is a Must]]
 - [[First Steps Toward Clean Data]]
 - [[Continue Cleaning Data in Spreadsheets]]
+
+### Module 3
+
+- [[SQL for Sparkling Clean Data]]

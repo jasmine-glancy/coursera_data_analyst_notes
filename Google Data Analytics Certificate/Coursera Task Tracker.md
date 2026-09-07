@@ -6,9 +6,9 @@
 **Overall progress:** 4/9 courses
 
 > [!tip] Current Focus
-> **Course:**  Process Data from Dirty to Clean
-> **Module:**  Course 4, Module 2
-> **Next action:**  Complete Module 2
+> **Course:** Process Data from Dirty to Clean
+> **Module:** Course 4, Module 3
+> **Next action:** Complete Module 3
 
 ---
 
@@ -62,9 +62,8 @@
 ### Key takeaways
 
 - Effective questions are fair and follow the SMART Methodology; Specific, Measurable, Action-Oriented, Relevant, and Time-bound.
-- The Problem Domain is everything pertaining to a problem and is the first step of creating a scope of work. 
+- The Problem Domain is everything pertaining to a problem and is the first step of creating a scope of work.
 - You can use SMART questions to create a scope of work for your stakeholders to understand project deliverables, milestones, timelines, and reports.
-
 
 ---
 
@@ -92,7 +91,7 @@
 ### Key takeaways
 
 - Data is people! You have a responsibility as a data analyst to protect the person's privacy. You can sort and filter data with Structured Query Language (SQL) or with Excel/Google Sheets.
-- Organizing data can make data analysis and finding historic solutions when you need them. 
+- Organizing data can make data analysis and finding historic solutions when you need them.
 - Kaggle has many similar features as GitHub (version control, sharing datasets, badges, progress bars). You can add this to your growth list to learn new data techniques and share solutions.
 
 ---
@@ -103,7 +102,7 @@
 
 - [x] Begin Course 4
 - [x] Complete Module 1
-- [ ] Complete Module 2
+- [x] Complete Module 2
 - [ ] Complete Module 3
 - [ ] Complete Module 4
 - [ ] Complete Module 5
@@ -122,15 +121,15 @@
 ### Key takeaways
 
 - Dirty data includes duplicate data, outdated data, incomplete data, incorrect or inaccurate data, and inconsistent data. Each type of dirty data can have a significant impact on analyses, leading to inaccurate insights, poor decision-making, and revenue loss
-	- Causes of dirty data: 
-		- Manual data entry errors
-		- Batch data imports
-		- Data migration
-		- Software obsolescence
-		- Improper data collection
-		- Human errors during data input.
-- 
-- 
+  - Causes of dirty data:
+    - Manual data entry errors
+    - Batch data imports
+    - Data migration
+    - Software obsolescence
+    - Improper data collection
+    - Human errors during data input.
+-
+-
 
 ---
 
@@ -161,9 +160,9 @@
 
 ### Key takeaways
 
-- 
-- 
-- 
+-
+-
+-
 
 ---
 
@@ -194,9 +193,9 @@
 
 ### Key takeaways
 
-- 
-- 
-- 
+-
+-
+-
 
 ---
 
@@ -232,9 +231,9 @@
 
 ### Key takeaways
 
-- 
-- 
-- 
+-
+-
+-
 
 ---
 
@@ -266,10 +265,10 @@
 
 ### Project links
 
-- **Dataset:** 
-- **Repository:** 
-- **Dashboard:** 
-- **Case study:** 
+- **Dataset:**
+- **Repository:**
+- **Dashboard:**
+- **Case study:**
 
 ---
 
@@ -339,8 +338,8 @@
 - [ ] Update this tracker
 - [ ] Choose the next starting point
 
-**What I learned:**  
+**What I learned:**
 
-**What I need to review:**  
+**What I need to review:**
 
-**Next action:**  
+**Next action:**
