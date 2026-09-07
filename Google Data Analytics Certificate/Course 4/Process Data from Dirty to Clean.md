@@ -19,6 +19,7 @@ Every data analyst wants to analyze clean data. In this part of the course, you�
 Knowing a variety of ways to clean data can make a data analyst’s job much easier. In this part of the course, you’ll use SQL to clean data from databases. In particular, you’ll explore how SQL queries and functions can be used to clean and transform your data before an analysis.
 
 - [[SQL for Sparkling Clean Data]]
+- [[Learn Basic SQL Queries]]
 ### Module 4: Verify and Report on Cleaning Results
 When you clean data, you make changes to the original dataset. It’s important to verify the changes you make are accurate and to let your teammates know about the changes. In this part of the course, you’ll learn to verify that data is clean and report your data cleaning results. With verified clean data, you’re ready to begin analyzing!
 
