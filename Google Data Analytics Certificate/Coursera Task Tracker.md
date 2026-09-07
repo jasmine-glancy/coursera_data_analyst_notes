@@ -103,7 +103,7 @@
 - [x] Begin Course 4
 - [x] Complete Module 1
 - [x] Complete Module 2
-- [ ] Complete Module 3
+- [x] Complete Module 3
 - [ ] Complete Module 4
 - [ ] Complete Module 5
 - [ ] Finish all videos
