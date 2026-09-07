@@ -100,3 +100,4 @@
 ### Module 3
 
 - [[SQL for Sparkling Clean Data]]
+- [[Learn Basic SQL Queries]]
