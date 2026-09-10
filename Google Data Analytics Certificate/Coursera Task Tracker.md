@@ -7,8 +7,8 @@
 
 > [!tip] Current Focus
 > **Course:** Process Data from Dirty to Clean
-> **Module:** Course 4, Module 3
-> **Next action:** Complete Module 3
+> **Module:** Course 5, Module 1
+> **Next action:** Complete Module 1
 
 ---
 
@@ -104,32 +104,33 @@
 - [x] Complete Module 1
 - [x] Complete Module 2
 - [x] Complete Module 3
-- [ ] Complete Module 4
-- [ ] Complete Module 5
-- [ ] Finish all videos
-- [ ] Finish all readings
-- [ ] Complete all spreadsheet exercises
-- [ ] Complete all SQL-cleaning exercises
-- [ ] Complete all practice activities
-- [ ] Complete all graded assignments
-- [ ] Review missed questions
-- [ ] Create a data-cleaning checklist
-- [ ] Record key concepts in my notes
-- [ ] Complete Course 4
-- [ ] Celebrate checkpoint #4 🎉
+- [x] Complete Module 4
+- [x] Complete Module 5
+- [x] Finish all videos
+- [x] Finish all readings
+- [x] Complete all spreadsheet exercises
+- [x] Complete all SQL-cleaning exercises
+- [x] Complete all practice activities
+- [x] Complete all graded assignments
+- [x] Review missed questions
+- [x] Create a data-cleaning checklist
+- [x] Record key concepts in my notes
+- [x] Complete Course 4
+- [x] Celebrate checkpoint #4 🎉
 
 ### Key takeaways
 
 - Dirty data includes duplicate data, outdated data, incomplete data, incorrect or inaccurate data, and inconsistent data. Each type of dirty data can have a significant impact on analyses, leading to inaccurate insights, poor decision-making, and revenue loss
-  - Causes of dirty data:
+- Causes of dirty data:
     - Manual data entry errors
     - Batch data imports
     - Data migration
     - Software obsolescence
     - Improper data collection
     - Human errors during data input.
--
--
+- Depending on your needs, data can be cleaned with SQL or via spreadsheets.
+	- Larger databases will be cleaned with SQL
+	- Smaller datasets or datasets within spreadsheets will be cleaned within Google Sheets or Excel
 
 ---
 
