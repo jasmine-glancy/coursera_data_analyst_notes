@@ -102,3 +102,8 @@
 - [[SQL for Sparkling Clean Data]]
 - [[Learn Basic SQL Queries]]
 - [[Transform Data]]
+
+### Module 4
+
+- [[Manually Cleaning Data]]
+- [[Document the Cleaning Process]]
