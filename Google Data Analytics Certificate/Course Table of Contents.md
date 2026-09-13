@@ -107,3 +107,15 @@
 
 - [[Manually Cleaning Data]]
 - [[Document the Cleaning Process]]
+
+### Module 5
+
+- [[Add Data to Your Resume]]
+
+## Course 5
+
+### Module 1
+
+- [[Organize Data for Analysis]]
+- [[Sort Data in Spreadsheets]]
+- [[Sort Data in SQL]]

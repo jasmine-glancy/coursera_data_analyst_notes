@@ -6,6 +6,9 @@
 
 Organizing data makes the data easier to use in your analysis. In this part of the course, you’ll learn the importance of organizing your data through sorting and filtering. You’ll explore these processes in both spreadsheets and SQL as you continue to prepare your data.
 
+- [[Organize Data for Analysis]]
+- [[Sort Data in Spreadsheets]]
+- [[Sort Data in SQL]]
 ### Module 2: Format and Adjust Data
 As you move closer to analyzing your data, you’ll want to have it formatted and ready to go. In this part of the course, you’ll learn all about converting and formatting data, including how SQL queries can help you combine data. You’ll also find out the value of feedback and support from your colleagues and how it can lead to learnings that you can apply to your work.
 
@@ -14,3 +17,8 @@ As part of your analysis, you’ll often have to combine data in order to gain i
 
 ### Module 4: Perform Data Calculations
 Calculations are a common task for data analysts. In this part of the course, you’ll explore formulas, functions, and pivot tables in spreadsheets and queries in SQL, all of which will help with your calculations. You’ll also learn about the benefits of using SQL to manage temporary tables.
+
+| **Concept**    | **Notes**                                                                            |
+| -------------- | ------------------------------------------------------------------------------------ |
+| **`ORDER BY`** | - A SQL clause that sorts results returned in a query                                |
+| **`ROUND`**    | - A SQL function that returns a number rounded to a certain number of decimal places |
