@@ -6,7 +6,7 @@
 **Overall progress:** 4/9 courses
 
 > [!tip] Current Focus
-> **Course:** Process Data from Dirty to Clean
+> **Course:** Analyze Data to Answer Questions
 > **Module:** Course 5, Module 1
 > **Next action:** Complete Module 1
 
@@ -138,7 +138,7 @@
 
 **Estimated time:** 26 hours
 
-- [ ] Begin Course 5
+- [x] Begin Course 5
 - [ ] Complete Module 1
 - [ ] Complete Module 2
 - [ ] Complete Module 3
