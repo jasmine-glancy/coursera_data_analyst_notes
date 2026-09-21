@@ -6,9 +6,9 @@
 **Overall progress:** 4/9 courses
 
 > [!tip] Current Focus
-> **Course:** Analyze Data to Answer Questions
-> **Module:** Course 5, Module 1
-> **Next action:** Complete Module 1
+> **Course:** Share Data Through the Art of Visualization
+> **Module:** Course 6, Module 4
+> **Next action:** Complete Module 4
 
 ---
 
@@ -139,31 +139,31 @@
 **Estimated time:** 26 hours
 
 - [x] Begin Course 5
-- [ ] Complete Module 1
-- [ ] Complete Module 2
-- [ ] Complete Module 3
-- [ ] Complete Module 4
-- [ ] Complete Module 5
-- [ ] Complete Module 6
-- [ ] Finish all videos
-- [ ] Finish all readings
-- [ ] Complete all spreadsheet exercises
-- [ ] Complete all SQL exercises
-- [ ] Practice sorting and filtering data
-- [ ] Practice calculations and formulas
-- [ ] Practice joining database tables
-- [ ] Complete all practice activities
-- [ ] Complete all graded assignments
-- [ ] Review missed questions
-- [ ] Record key concepts in my notes
-- [ ] Complete Course 5
-- [ ] Celebrate being over halfway through 🎉
+- [x] Complete Module 1
+- [x] Complete Module 2
+- [x] Complete Module 3
+- [x] Complete Module 4
+- [x] Complete Module 5
+- [x] Complete Module 6
+- [x] Finish all videos
+- [x] Finish all readings
+- [x] Complete all spreadsheet exercises
+- [x] Complete all SQL exercises
+- [x] Practice sorting and filtering data
+- [x] Practice calculations and formulas
+- [x] Practice joining database tables
+- [x] Complete all practice activities
+- [x] Complete all graded assignments
+- [x] Review missed questions
+- [x] Record key concepts in my notes
+- [x] Complete Course 5
+- [x] Celebrate being over halfway through 🎉
 
 ### Key takeaways
 
--
--
--
+- Before analyzing data, it must be organized and formatted. This reduces duplicate efforts. Cleaned data increases the likelihood your analysis will be correct.
+- Datasets can also be combined to analyze data from various sources
+- Temporary tables can be helpful for analysis, but if multiple people could benefit from the tables you make, consider moving them into your organization's SQL database.
 
 ---
 
@@ -176,7 +176,6 @@
 - [ ] Complete Module 2
 - [ ] Complete Module 3
 - [ ] Complete Module 4
-- [ ] Complete Module 5
 - [ ] Finish all videos
 - [ ] Finish all readings
 - [ ] Complete all Tableau exercises
