@@ -119,3 +119,23 @@
 - [[Organize Data for Analysis]]
 - [[Sort Data in Spreadsheets]]
 - [[Sort Data in SQL]]
+
+### Module 2
+
+- [[Formatting for Better Analysis]]
+- [[Combine Multiple Datasets]]
+- [[Get Support During Analysis]]
+
+### Module 3
+
+- [[VLOOKUP and Data Aggregation]]
+- [[Use JOINS to Aggregate Data in SQL]]
+- [[Work With Subqueries]]
+
+### Module 4
+
+- [[Get Started with Data Calculations]]
+- [[Pivot… Pivot… Pivot…]]
+- [[Learn More SQL Calculations]]
+- [[The Data Validation Process]]
+- [[SQL and Temp Tables]]
