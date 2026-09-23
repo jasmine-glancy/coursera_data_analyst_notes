@@ -6,6 +6,7 @@
 
 You’ll discover the main features and benefits of the Python programming language, and how Python can help power your data analysis. Python is an object-oriented programming language based on objects that contain data and useful code. You’ll become familiar with the core concepts of object-oriented programming: object, class, method, and attribute. You’ll learn about Jupyter Notebooks, an interactive environment for coding and data work. You’ll investigate how to use variables and data types to store and organize your data; and, you'll begin practicing important coding skills.
 
+- [[Get Started with the Course]]
 ### Module 2: Functions and Conditional Statements
 
 Next, you’ll discover how to call functions to perform useful actions on your data. You’ll also learn how to write conditional statements to tell the computer how to make decisions based on your instructions. And you’ll practice writing clean code that can be easily understood and reused by other data professionals.
