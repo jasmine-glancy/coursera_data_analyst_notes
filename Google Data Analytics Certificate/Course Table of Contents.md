@@ -139,3 +139,29 @@
 - [[Learn More SQL Calculations]]
 - [[The Data Validation Process]]
 - [[SQL and Temp Tables]]
+
+## Course 6
+
+### Module 1
+
+- [[Understand Data Visualization]]
+- [[Design Data Visualizations]]
+- [[Visualization Considerations]]
+
+### Module 2
+
+- [[Get Started with Tableau]]
+- [[Design Visualizations in Tableau]]
+
+### Module 3
+
+- [[Data-Driven Storytelling]]
+- [[Tableau Dashboards]]
+- [[Share Data Stories]]
+
+### Module 4
+
+- [[The Art and Science of Presentations]]
+- [[Presentation Skills and Practices]]
+- [[Data Caveats and Limitations]]
+- [[Listen, Respond, and Include]]
