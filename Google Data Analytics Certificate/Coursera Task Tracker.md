@@ -1,14 +1,14 @@
 # Google Data Analytics Professional Certificate
 
 **Started:** August 10, 2026  
-**Target completion date:**  
+**Target completion date:**  October 18-21, 2026
 **Estimated coursework:** 152 hours  
-**Overall progress:** 4/9 courses
+**Overall progress:** 6/9 courses
 
 > [!tip] Current Focus
-> **Course:** Share Data Through the Art of Visualization
-> **Module:** Course 6, Module 4
-> **Next action:** Complete Module 4
+> **Course:** Introduction to Data Analysis Using Python
+> **Module:** Course 7, Module 1
+> **Next action:** Complete Module 1
 
 ---
 
@@ -171,31 +171,31 @@
 
 **Estimated time:** 19 hours
 
-- [ ] Begin Course 6
-- [ ] Complete Module 1
-- [ ] Complete Module 2
-- [ ] Complete Module 3
-- [ ] Complete Module 4
-- [ ] Finish all videos
-- [ ] Finish all readings
-- [ ] Complete all Tableau exercises
-- [ ] Create at least one visualization
-- [ ] Apply accessibility principles
-- [ ] Practice data storytelling
-- [ ] Practice presenting analytical findings
-- [ ] Complete all practice activities
-- [ ] Complete all graded assignments
-- [ ] Review missed questions
-- [ ] Save my best visualization
-- [ ] Record key concepts in my notes
-- [ ] Complete Course 6
-- [ ] Celebrate checkpoint #6 🎉
+- [x] Begin Course 6
+- [x] Complete Module 1
+- [x] Complete Module 2
+- [x] Complete Module 3
+- [x] Complete Module 4
+- [x] Finish all videos
+- [x] Finish all readings
+- [x] Complete all Tableau exercises
+- [x] Create at least one visualization
+- [x] Apply accessibility principles
+- [x] Practice data storytelling
+- [x] Practice presenting analytical findings
+- [x] Complete all practice activities
+- [x] Complete all graded assignments
+- [x] Review missed questions
+- [x] Save my best visualization
+- [x] Record key concepts in my notes
+- [x] Complete Course 6
+- [x] Celebrate checkpoint #6 🎉
 
 ### Key takeaways
 
--
--
--
+- Successful data visualizations utilize information, story, goal, and visual form to convey meaningful insights from data. When creating a visualization, you should try to incorporate all four of these elements effectively.
+- To create visualizations, you can utilize a decision tree like the one found at [From Data to Viz](https://www.data-to-viz.com/) 
+- Using frameworks like the McCandless Method or Kaiser Fung's Junk Charts Trifecta Checkup can help you organize your thoughts about data visualization
 
 ---
 
@@ -208,8 +208,6 @@
 - [ ] Complete Module 2
 - [ ] Complete Module 3
 - [ ] Complete Module 4
-- [ ] Complete Module 5
-- [ ] Complete Module 6
 - [ ] Finish all videos
 - [ ] Finish all readings
 - [ ] Practice Python syntax
@@ -314,32 +312,13 @@
 
 ## Progress Log
 
-- [ ] 10% complete
-- [ ] 20% complete
-- [ ] 30% complete
-- [ ] 40% complete
-- [ ] 50% complete
-- [ ] 60% complete
+- [x] 10% complete
+- [x] 20% complete
+- [x] 30% complete
+- [x] 40% complete
+- [x] 50% complete
+- [x] 60% complete
 - [ ] 70% complete
 - [ ] 80% complete
 - [ ] 90% complete
 - [ ] 100% complete
-
-## Study Session Template
-
-### Session: YYYY-MM-DD
-
-- [ ] Open Coursera
-- [ ] Choose today's stopping point
-- [ ] Complete one lesson
-- [ ] Complete one activity
-- [ ] Take brief notes
-- [ ] Record anything confusing
-- [ ] Update this tracker
-- [ ] Choose the next starting point
-
-**What I learned:**
-
-**What I need to review:**
-
-**Next action:**
