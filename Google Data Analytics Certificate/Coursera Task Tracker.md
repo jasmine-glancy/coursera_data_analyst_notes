@@ -203,7 +203,7 @@
 
 **Estimated time:** 27 hours
 
-- [ ] Begin Course 7
+- [x] Begin Course 7
 - [ ] Complete Module 1
 - [ ] Complete Module 2
 - [ ] Complete Module 3

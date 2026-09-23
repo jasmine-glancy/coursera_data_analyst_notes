@@ -170,6 +170,8 @@
 
 ### Module 1
 
+- [[Get Started with the Course]]
+
 ### Module 2
 
 ### Module 3
