@@ -165,3 +165,13 @@
 - [[Presentation Skills and Practices]]
 - [[Data Caveats and Limitations]]
 - [[Listen, Respond, and Include]]
+
+## Course 7
+
+### Module 1
+
+### Module 2
+
+### Module 3
+
+### Module 4
